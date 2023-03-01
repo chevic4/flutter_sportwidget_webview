@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "552775207206",
+    "project_id": "flutterwebsportfire",
+    "storage_bucket": "flutterwebsportfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552775207206:android:c14eebe9d4d720eab2d9e7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_websportfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552775207206-9afgl17484jdjl3t18j09k5gsh63v1u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgT5_j7KhVjnkjt6hqDzDZ9fqlK5hovcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552775207206-9afgl17484jdjl3t18j09k5gsh63v1u4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552775207206-2o6k4tj360cdn60s93lltd1e5h7kimva.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterWebsportfire"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
