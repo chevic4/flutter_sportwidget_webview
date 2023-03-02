@@ -107,6 +107,7 @@ PODS:
 DEPENDENCIES:
   - Firebase
   - firebase_core (from `.symlinks/plugins/firebase_core/ios`)
+  - FirebaseCore
   - FirebaseCoreInternal
   - Flutter (from `Flutter`)
   - GoogleUtilities
@@ -150,6 +151,6 @@ SPEC CHECKSUMS:
   shared_preferences_foundation: 297b3ebca31b34ec92be11acd7fb0ba932c822ca
   webview_flutter_wkwebview: d08f59cde5e8402c345c0bdda35ac0031352dcae
 
-PODFILE CHECKSUM: 68b70aad842fdb5226ad77dc001e19cb65935a34
+PODFILE CHECKSUM: 035226e68d355793ee59f365ab9f55aec728685d
 
 COCOAPODS: 1.11.3

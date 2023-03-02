@@ -9,7 +9,7 @@ project 'Runner', {
   'Profile' => :release,
   'Release' => :release,
 }
-
+pod 'FirebaseCore', :modular_headers => true
 pod 'Firebase', :modular_headers => true
 pod 'FirebaseCoreInternal', :modular_headers => true
 pod 'GoogleUtilities', :modular_headers => true
